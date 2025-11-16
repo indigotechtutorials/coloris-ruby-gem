@@ -1,6 +1,6 @@
 module Coloris
   class InstallGenerator < Rails::Generators::Base
-    source_root File.expand_path("../../../coloris_assets", __FILE__)
+    source_root File.expand_path("../../coloris_assets", __FILE__)
     def install
       copy_file "coloris.css", "app/assets/stylesheets/coloris.css"
       copy_file "coloris.js", "app/javascript/coloris.js"
