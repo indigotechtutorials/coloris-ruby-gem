@@ -1,5 +1,12 @@
  # Coloris gem for Ruby on Rails
 
+### For the [🎨 Coloris Library](https://github.com/mdbassit/Coloris)
+
+An alternative color picker for your website which offers some helpful features including
+- 3 different UI modes (default, polaroid, pill)
+- light/dark mode
+- force color picker to only use a single format (hsl, rgb, hex) or allow all color formats.
+
  ### Installation guide
 
  #### Step 1. Install the gem
