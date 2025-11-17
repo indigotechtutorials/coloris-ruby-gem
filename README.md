@@ -7,6 +7,8 @@ An alternative color picker for your website which offers some helpful features 
 - light/dark mode
 - force color picker to only use a single format (hsl, rgb, hex) or allow all color formats.
 
+And so many more customization options [see more information on the Coloris github page][https://github.com/mdbassit/Coloris]
+
  ### Installation guide
 
  #### Step 1. Install the gem
